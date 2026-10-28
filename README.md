@@ -66,7 +66,8 @@ O arquivo `analises.sql` reúne consultas que respondem perguntas de negócio, u
 - `imagens/`: prints do dashboard
 ## 📚 Fonte dos dados
  
-[Preencher: link do dataset público, ou "Dados fictícios gerados para fins de estudo"]
+Dataset: Logistics Operations Database
+Autor: Yogape Rodriguez
  
 ## 🚀 Próximos passos
  
