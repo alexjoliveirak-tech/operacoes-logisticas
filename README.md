@@ -15,9 +15,8 @@ Construir, do zero, a estrutura de dados de uma transportadora (clientes, frota,
 5. **Dashboard:** conexão do PostgreSQL com o Power BI e construção das visualizações
 ## 📊 Dashboard
  
-<p align="center">
-  <img src="imagens/dash_imagem.png" alt="Dashboard Power BI - Operações Logísticas: Receita e Clientes" width="900">
-</p>
+<img width="2000" height="1146" alt="dash imagem" src="https://github.com/user-attachments/assets/4f35afa8-2f71-4f03-b64f-d8a690d7de7e" />
+
 O dashboard apresenta os principais indicadores da operação:
  
 - **KPIs:** receita total, peso total transportado e total de cargas
